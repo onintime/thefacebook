@@ -11,7 +11,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <link rel="stylesheet" href="style.css"> 
 <link rel="shortcut icon" href="favicon.ico"> 
 <meta name="description" content="TheFacebook is an online directory that connects people through social networks at colleges." /> 
-<meta name="keywords" content="harvardconnection, harvard, connection, the, facebook, old, original, mark, zuckerberg, winklevoss, tyler, cameron, .co, connectu" /> 
+<meta name="keywords" content="TheFacebook, facebook, old, original, mark, zuckerberg, winklevoss, tyler, cameron, .co, connectu" /> 
 <meta name="Generator" content="JB engine designed" /> 
 <meta name="robots" content="index, follow" /> 
 <meta name="OriginalPublicationDate" content="2011/04/06 00:00:00">

@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 
 	extract($_POST);
 
-if(strlen($newschool)>1){
+	if(strlen($newschool)>1){
 		$db = new Database();																		
 		$db->connect();
 		$values=array('NULL', $email, $newschool, 'NOW()');
@@ -34,7 +34,6 @@ if(strlen($newschool)>1){
 <title>TheFacebook | Contact Us</title> 
 <link rel="stylesheet" href="style.css"> 
 <link rel="shortcut icon" href="favicon.ico"> 
- 
 
 
 <center>
@@ -135,9 +134,9 @@ echo "<table style='width:100%;height:150px'><tr><td><p class='red'><b>$schoolsu
 }
 ?>
 <p><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Email</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=0 border=0 width=95%><tr><td><table cellspacing=0 cellpadding=3 border=0><tr><td><b>Information/Support:</b>&nbsp;&nbsp;</td><td><a href="javascript:window.location='mailto:info'+'@'+'HarvardConnection.co'">info@<blink></blink>HarvardConnection.co</a></td></tr><tr><td><b>Suggestions/Requests:</b>&nbsp;&nbsp;</td><td><a href="javascript:window.location='mailto:suggest'+'@'+'HarvardConnection.co'">suggest@<blink></blink>HarvardConnection.co</a></td></tr><tr><td><b>Business Development:</b></td><td><a href="javascript:window.location='mailto:business'+'@'+'HarvardConnection.co'">business@<blink></blink>HarvardConnection.co</a></\
-td></tr><tr><td><b>Press Inquiries:</b></td><td><a href="javascript:window.location='mailto:press'+'@'+'HarvardConnection.co'">press@<blink></blink>HarvardConnection.co</a></t\
-d></tr><tr><td><b>Advertising:</b></td><td><a href="javascript:window.location='mailto:advertise'+'@'+'HarvardConnection.co'">advertise@<blink></blink>HarvardConnection.co</a></td></tr></table></td></tr></table>&nbsp;<br></td></tr></table>&nbsp;<br><input class='inputsubmit' type=button value='Home' onclick='javascript:document.location="home.php";'><br>&nbsp;</td></tr></table>  </td></tr></table>
+<tr><td class='white' bgcolor=#3B5998>Email</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=0 border=0 width=95%><tr><td><table cellspacing=0 cellpadding=3 border=0><tr><td><b>Information/Support:</b>&nbsp;&nbsp;</td><td><a href="javascript:window.location='mailto:info'+'@'+'<?php echo DOMAIN_NAME; ?>'">info@<blink></blink><?php echo DOMAIN_NAME; ?></a></td></tr><tr><td><b>Suggestions/Requests:</b>&nbsp;&nbsp;</td><td><a href="javascript:window.location='mailto:suggest'+'@'+'<?php echo DOMAIN_NAME; ?>'">suggest@<blink></blink><?php echo DOMAIN_NAME; ?></a></td></tr><tr><td><b>Business Development:</b></td><td><a href="javascript:window.location='mailto:business'+'@'+'<?php echo DOMAIN_NAME; ?>'">business@<blink></blink><?php echo DOMAIN_NAME; ?></a></\
+td></tr><tr><td><b>Press Inquiries:</b></td><td><a href="javascript:window.location='mailto:press'+'@'+'<?php echo DOMAIN_NAME; ?>'">press@<blink></blink><?php echo DOMAIN_NAME; ?></a></t\
+d></tr><tr><td><b>Advertising:</b></td><td><a href="javascript:window.location='mailto:advertise'+'@'+'<?php echo DOMAIN_NAME; ?>'">advertise@<blink></blink><?php echo DOMAIN_NAME; ?></a></td></tr></table></td></tr></table>&nbsp;<br></td></tr></table>&nbsp;<br><input class='inputsubmit' type=button value='Home' onclick='javascript:document.location="home.php";'><br>&nbsp;</td></tr></table>  </td></tr></table>
 
   </td></tr></table>
 

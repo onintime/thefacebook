@@ -166,7 +166,7 @@ $dropdowns = new Dropdowns();
 													</tr>
 													<tr>
 														<td colspan=2>
-															<b>To edit your name, please contact info@thefacebook.xyz</b>
+															<b>To edit your name, please contact info@<?php echo DOMAIN_NAME; ?></b>
 														</td>
 													</tr>
 
