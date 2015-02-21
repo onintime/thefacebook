@@ -40,56 +40,6 @@ $searchterms=array('User ID'=>'id', 'Name'=>'name', 'School'=>'school', 'School 
 </head>
  <body style="overflow: visible">
 
- <div id="fb-root"></div>
-  <script>
- 
-	window.fbAsyncInit = function() {
-    FB.init({
-      appId  : '<?PHP echo $app_id;?>',
-      status : true, // check login status
-      cookie : true, // enable cookies to allow the server to access the session
-      xfbml  : true  // parse XFBML
-    });
-
-	 FB.Canvas.setAutoResize();
- 
-  };
-
-  (function() {
-    var e = document.createElement('script');
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-    e.async = true;
-    document.getElementById('fb-root').appendChild(e);
-  }());
-
-
-	function sendreq(type,uid) {
-	if(type=="message")
-		mess='<? echo $fbreq_message;?>';
-	if(type=="friend")
-		mess='<? echo $fbreq_friend;?>';
-	
-	  FB.ui({
-		method: 'apprequests',
-		message: mess,
-		to: uid,
-		data: 'senddata'
-	  },
-	   function(response) {
-		 if (response) {
-		   alert('Post was published.');
-		 } else {
-		   alert('Post was not published.');
-		 }
-	   }
-	  
-	  );
-	}
-	
-
-
-
-  </script>
  <style>
  	img.normal{
  		max-width:100px
