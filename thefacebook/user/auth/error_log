@@ -1,0 +1,2 @@
+[11-Feb-2015 09:48:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thefacebook/public_html/beta/user/auth/topsec.php:375) in /home/thefacebook/public_html/beta/user/auth/login.php on line 15
+[11-Feb-2015 09:50:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thefacebook/public_html/beta/user/auth/topsec.php:375) in /home/thefacebook/public_html/beta/user/auth/login.php on line 15
