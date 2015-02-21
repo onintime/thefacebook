@@ -10,7 +10,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 
 	extract($_POST);
 
-	if(strlen($newschool)>1){
+if(strlen($newschool)>1){
 		$db = new Database();																		
 		$db->connect();
 		$values=array('NULL', $email, $newschool, 'NOW()');
@@ -21,7 +21,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
 				$body .= "The school is: ".$newschool.".";
 				$email = new email();																		
 				if($site->get_setting('email_alerts')==1){
-					$email->send('suggest@harvardconnection.co','New School Suggestion',$body);
+					$email->send('suggest@'.DOMAIN_NAME,'New School Suggestion',$body);
 				}
 				$schoolsuggested="Your suggestion has been sent to the HarvardConnection team.";
 		}
