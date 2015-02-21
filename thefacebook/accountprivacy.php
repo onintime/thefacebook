@@ -38,17 +38,6 @@ $dropdowns = new Dropdowns();
 <title>TheFacebook | Account Privacy</title> 
 <link rel="stylesheet" href="style.css"> 
 <link rel="shortcut icon" href="favicon.ico"> 
-  <div id="fb-root"></div>
-  <script>
-    window.fbAsyncInit = function() {
-   FB.Canvas.setAutoResize();
-    };
-    (function() {
-   var e = document.createElement('script'); e.async = true;
-   e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-   document.getElementById('fb-root').appendChild(e);
-    }());
-  </script>
 
 
 <center>
