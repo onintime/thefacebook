@@ -470,7 +470,6 @@ $totalusers=$stats->totalscope();
 echo "<b>".$_SESSION['notpartofacollege']."</b>";
 }
 ?>
-<div id="fb-root"></div>
 <center><input class="inputsubmit" type="button" value="Register" onClick="javascript:document.location='user/auth/signup.php'">&nbsp;&nbsp;<input class="inputsubmit" type="button" value=" Login " onClick="javascript:document.location='user/auth/login.php';">
 <br>&nbsp;</td></tr></table>  </td></tr></table> 
 
