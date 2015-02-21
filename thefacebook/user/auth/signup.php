@@ -56,7 +56,7 @@ require_once "topsec.php";
 			</div><br>
 
 			<input type="hidden" name="action" value="signup">
-			<button type="submit" class="inputsubmit" name="signup">SIGN UP</button>
+			<button type="submit" class="inputsubmit" name="signup">Sign up</button>
             </td>
             </tr>
             </table>
