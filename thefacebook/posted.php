@@ -10,7 +10,7 @@ $schoolsuggested=NULL;
 
 ?>
 <html xmlns:fb="http://www.facebook.com/2008/fbml">
-<title>HarvardConnection | Posted</title> 
+<title>TheFacebook | Posted</title> 
 <link rel="stylesheet" href="style.css"> 
 <link rel="shortcut icon" href="favicon.ico"> 
 <body>

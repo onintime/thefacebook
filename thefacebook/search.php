@@ -363,19 +363,5 @@ $searchterms=array('User ID'=>'id', 'Name'=>'name', 'School'=>'school', 'School 
 </body>
 </html>
 
-<script type="text/javascript"> 
-            window.fbAsyncInit = function() {
-                FB.init({appId: '216469101714486', status: true, cookie: true, xfbml: true});
-                FB.Canvas.setAutoResize();
-            };
-            
-            (function() {
-                var e = document.createElement('script');
-                e.type = 'text/javascript';
-                e.src = document.location.protocol +
-                    '//connect.facebook.net/en_US/all.js';
-                e.async = true;
-                document.getElementById('fb-root').appendChild(e);
-            }());
-</script>
+
  

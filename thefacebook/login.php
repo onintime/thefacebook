@@ -294,30 +294,8 @@ if($sess->CheckValidSession()){
   -->
   
 </style>
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId   : '<?php echo $sess->fbappid; ?>',
-          session : <?php echo json_encode($sess->fbsession); ?>, // don't refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-          xfbml   : true // parse XFBML
-        });
-
-        // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {
-          window.location = "home.php"
-        });
-      };
- 
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script> 
-<title>HarvardConnection | Login</title> 
+    
+<title>TheFacebook | Login</title> 
  
 <center> 
 <table class="bordertable" cellspacing=0 cellpadding=0 border=0 width=700> 

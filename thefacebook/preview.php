@@ -275,7 +275,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
   119 201 243 - link down  (#77C9F3)
   -->
   
-</style><title>HarvardConnection | Preview</title> 
+</style><title>TheFacebook | Preview</title> 
  
 <center> 
 <table class="bordertable" cellspacing=0 cellpadding=0 border=0 width=700> 
@@ -322,7 +322,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
  
 
 	  <table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Preview HarvardConnection</td></tr></table><center><p class='title'>[ Screenshots ]</p><center><table cellspacing=0 cellpadding=0 border=0 width=95%><tr><td><center>
+<tr><td class='white' bgcolor=#3B5998>Preview TheFacebook</td></tr></table><center><p class='title'>[ Screenshots ]</p><center><table cellspacing=0 cellpadding=0 border=0 width=95%><tr><td><center>
 
 <table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
 <tr><td class='white' bgcolor=#3B5998>Screenshots</td></tr></table>

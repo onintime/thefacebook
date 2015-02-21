@@ -333,10 +333,7 @@ $registersuccess=NULL;
 <br>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 <div id="hax" style="width:300px;height:200px;border:solid 1px black;"></div>
-<script>
-	$("#hax").load("//www.fb.com/settings?tab=account&section=username&view");
 
-</script>
 
 </td></tr></table> 
  

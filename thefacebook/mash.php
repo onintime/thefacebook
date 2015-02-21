@@ -15,7 +15,7 @@ if(!$db->connect()){
 $id=$sess->Retrieve('id');
 $profile = new Profile($id);
 ?>
-<title>HarvardConnection | Mash</title> 
+<title>TheFacebook | Mash</title> 
 <link rel="stylesheet" href="style.css"> 
 <link rel="shortcut icon" href="favicon.ico"> 
 

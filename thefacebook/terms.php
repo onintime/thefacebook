@@ -276,17 +276,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
   -->
   
 </style><title>TheFacebook | Terms</title> 
-   <div id="fb-root"></div>
-  <script>
-    window.fbAsyncInit = function() {
-   FB.Canvas.setAutoResize();
-    };
-    (function() {
-   var e = document.createElement('script'); e.async = true;
-   e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-   document.getElementById('fb-root').appendChild(e);
-    }());
-  </script>
+
 
 <center> 
 <table class="bordertable" cellspacing=0 cellpadding=0 border=0 width=700> 
@@ -335,7 +325,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <tr><td class='white' bgcolor=#3B5998>Terms</td></tr></table><center><p class='title'>[ Terms ]</p><center><table cellspacing=0 cellpadding=0 border=0 width=95%><tr><td><center>
 
 <table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>By using HarvardConnection you are agreeing with the following terms:</td></tr></table>
+<tr><td class='white' bgcolor=#3B5998>By using TheFacebook you are agreeing with the following terms:</td></tr></table>
 &nbsp;<br><center> 
 <table cellspacing=0 cellpadding=2 border=0 width=95%>
 	<tr>
@@ -344,36 +334,36 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 		<li>
 			<b>Privacy</b><br>
 			<br>
-			We designed our <a href="http://www.HarvardConnection.co/policy.php">Privacy Policy</a> to make important disclosures about how you can use HarvardConnection to share with others and how we collect and can use your content and information.&nbsp; We encourage you to read the Privacy Policy, and to use it to help make informed decisions.
+			We designed our <a href="/policy.php">Privacy Policy</a> to make important disclosures about how you can use TheFacebook to share with others and how we collect and can use your content and information.&nbsp; We encourage you to read the Privacy Policy, and to use it to help make informed decisions.
 			<br><br>
 		</li>
 		<li>
 			<b>Sharing Your Content and Information</b><br>
 			<br>
-			You own all of the content and information you post on HarvardConnection. In addition:
+			You own all of the content and information you post on TheFacebook. In addition:
 			<ol>
 				<li>
-					For content that is covered by intellectual property rights, like photos ("IP content"), you specifically give us the following permission: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with HarvardConnection ("IP License"). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.</li>
+					For content that is covered by intellectual property rights, like photos ("IP content"), you specifically give us the following permission: you grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with TheFacebook ("IP License"). This IP License ends when you delete your IP content or your account unless your content has been shared with others, and they have not deleted it.</li>
 				<li>
 					When you delete IP content, it is deleted in a manner similar to emptying the recycle bin on a computer. However, you understand that removed content may persist in backup copies for a reasonable period of time (but will not be available to others).</li>
 				<li>
-					When you publish content or information using the "everyone" setting, it means that you are allowing everyone, including people off of HarvardConnection, to access and use that information, and to associate it with you (i.e., your name and profile picture).</li>
+					When you publish content or information using the "everyone" setting, it means that you are allowing everyone, including people off of TheFacebook, to access and use that information, and to associate it with you (i.e., your name and profile picture).</li>
 				<li>
-					We always appreciate your feedback or other suggestions about HarvardConnection, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).</li>
+					We always appreciate your feedback or other suggestions about TheFacebook, but you understand that we may use them without any obligation to compensate you for them (just as you have no obligation to offer them).</li>
 			</ol>
 		<br><br>
 		</li>
 		<li>
 			<b>Safety</b><br>
 			<br>
-			We do our best to keep HarvardConnection safe, but we cannot guarantee it. We need your help to do that, which includes the following commitments:
+			We do our best to keep TheFacebook safe, but we cannot guarantee it. We need your help to do that, which includes the following commitments:
 			<ol>
 				<li>
-					You will not send or otherwise post unauthorized commercial communications (such as spam) on HarvardConnection.</li>
+					You will not send or otherwise post unauthorized commercial communications (such as spam) on TheFacebook.</li>
 				<li>
-					You will not collect users' content or information, or otherwise access HarvardConnection, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our permission.</li>
+					You will not collect users' content or information, or otherwise access TheFacebook, using automated means (such as harvesting bots, robots, spiders, or scrapers) without our permission.</li>
 				<li>
-					You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on HarvardConnection.</li>
+					You will not engage in unlawful multi-level marketing, such as a pyramid scheme, on TheFacebook.</li>
 				<li>
 					You will not upload viruses or other malicious code.</li>
 				<li>
@@ -383,11 +373,11 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 				<li>
 					You will not post content that: is hateful, threatening, or pornographic; incites violence; or contains nudity or graphic or gratuitous violence.</li>
 				<li>
-					You will not offer any contest, giveaway, or sweepstakes ("promotion") on HarvardConnection without our prior written consent.</li>
+					You will not offer any contest, giveaway, or sweepstakes ("promotion") on TheFacebook without our prior written consent.</li>
 				<li>
-					You will not use HarvardConnection to do anything unlawful, misleading, malicious, or discriminatory.</li>
+					You will not use TheFacebook to do anything unlawful, misleading, malicious, or discriminatory.</li>
 				<li>
-					You will not do anything that could disable, overburden, or impair the proper working of HarvardConnection, such as a denial of service attack.</li>
+					You will not do anything that could disable, overburden, or impair the proper working of TheFacebook, such as a denial of service attack.</li>
 				<li>
 					You will not facilitate or encourage any violations of this Statement.</li>
 			</ol>
@@ -396,10 +386,10 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 		<li>
 			<b>Registration and Account Security</b><br>
 			<br>
-			HarvardConnection users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:
+			TheFacebook users provide their real names and information, and we need your help to keep it that way. Here are some commitments you make to us relating to registering and maintaining the security of your account:
 			<ol>
 				<li>
-					You will not provide any false personal information on HarvardConnection, or create an account for anyone other than yourself without permission.</li>
+					You will not provide any false personal information on TheFacebook, or create an account for anyone other than yourself without permission.</li>
 				<li>
 					You will not create more than one personal profile.</li>
 				<li>
@@ -407,9 +397,9 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 				<li>
 					You will not use your personal profile for your own commercial gain (such as selling your status update to an advertiser).</li>
 				<li>
-					You will not use HarvardConnection if you are under 13.</li>
+					You will not use TheFacebook if you are under 13.</li>
 				<li>
-					You will not use HarvardConnection if you are a convicted sex offender.</li>
+					You will not use TheFacebook if you are a convicted sex offender.</li>
 				<li>
 					You will keep your contact information accurate and up-to-date.</li>
 				<li>
