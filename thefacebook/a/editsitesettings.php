@@ -30,7 +30,7 @@ $stats = new statistics();
 $today=date('Y-m-d');
 
 ?>
-<title>HarvardConnection | Admin</title> 
+<title>The Facebook | Admin</title> 
 <link rel="stylesheet" href="../style.css"> 
 <link rel="shortcut icon" href="../favicon.ico"> 
 
