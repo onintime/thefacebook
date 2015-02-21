@@ -401,8 +401,8 @@ $totalusers=$stats->totalscope();
 <meta property="og:title" content="TheFacebook is an online directory that connects people through social networks at colleges."> 
 <meta property="og:type" content="website"> 
 <meta property="og:description" content="TheFacebook is an online directory that connects people through social networks at colleges.">
-<meta property="og:image" content="http://www.TheFacebook.xyz/images/logo-right.jpg">
-<meta property="og:url" content="http://www.TheFacebook.xyz/index.php"> 
+<meta property="og:image" content="/images/logo-right.jpg">
+<meta property="og:url" content="/index.php"> 
 <meta property="og:site_name" content="TheFacebook">
   <!-- sO3vWw3hwrnxdrwPGTKy2ZOW6yU -->
  </head>
