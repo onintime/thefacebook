@@ -51,7 +51,7 @@ require_once "topsec.php";
 			<input id="rememberme" type="checkbox" name="rememberme">
 			<label for="rememberme">Remember me</label><br><br>
 			<input type="hidden" name="action" value="login">
-			<button type="submit" class="inputsubmit" name="login">LOG IN</button>&nbsp; &nbsp;<input class="inputsubmit" type="button" value="Register" onclick="javascript:document.location='signup.php'">
+			<button type="submit" class="inputsubmit" name="login">Log in</button>&nbsp; &nbsp;<input class="inputsubmit" type="button" value="Register" onclick="javascript:document.location='signup.php'">
             </td>
             </tr>
             </table>
