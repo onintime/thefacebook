@@ -379,27 +379,6 @@ $totalusers=$stats->totalscope();
   119 201 243 - link down  (#77C9F3)
   -->
   </style>
- 
-
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          appId   : '<?php echo $sess->fbappid; ?>',
-          session : <?php echo json_encode($sess->fbsession); ?>, // don't refetch the session when PHP already has it
-          status  : true, // check login status
-          cookie  : true, // enable cookies to allow the server to access the session
-         xfbml   : true // parse XFBML
-        });
-
-      };
- 
-      (function() {
-        var e = document.createElement('script');
-        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-        e.async = true;
-        document.getElementById('fb-root').appendChild(e);
-      }());
-    </script>
 
 
 <title>TheFacebook | Welcome to TheFacebook!</title>
@@ -428,18 +407,6 @@ $totalusers=$stats->totalscope();
   <!-- sO3vWw3hwrnxdrwPGTKy2ZOW6yU -->
  </head>
  <body>
-   <div id="fb-root"></div>
-  <script>
-    window.fbAsyncInit = function() {
-   FB.Canvas.setAutoResize();
-    };
-    (function() {
-   var e = document.createElement('script'); e.async = true;
-   e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-   document.getElementById('fb-root').appendChild(e);
-    }());
-  </script>
-<script src="//connect.facebook.net/en_US/all.js#appId=194568130593245&amp;xfbml=1"></script>
 
 <center> 
 <table class="bordertable" cellspacing=0 cellpadding=0 border=0 width=700> 
