@@ -25,20 +25,10 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <meta name="CPS_AUDIENCE" content="US"> 
 <meta property="og:title" content="TheFacebook is an online directory that connects people through social networks at colleges."> 
 <meta property="og:type" content="page"> 
-<meta property="og:url" content="http://www.TheFacebook.us/about.php"> 
+<meta property="og:url" content="/about.php"> 
 <meta property="og:site_name" content="TheFacebook">  
 </head>
-  <div id="fb-root"></div>
-  <script>
-    window.fbAsyncInit = function() {
-   FB.Canvas.setAutoResize();
-    };
-    (function() {
-   var e = document.createElement('script'); e.async = true;
-   e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-   document.getElementById('fb-root').appendChild(e);
-    }());
-  </script>
+  
 
 <center>
 
