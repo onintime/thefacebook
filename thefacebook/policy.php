@@ -82,32 +82,32 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 
 
 	  <table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>HarvardConnection Privacy Policy</td></tr></table><center><p class='title'>[ Privacy Policy ]</p><center><table cellspacing=0 cellpadding=0 width=95% border=0><tr><td><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
+<tr><td class='white' bgcolor=#3B5998>TheFacebook Privacy Policy</td></tr></table><center><p class='title'>[ Privacy Policy ]</p><center><table cellspacing=0 cellpadding=0 width=95% border=0><tr><td><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
 <tr><td class='white' bgcolor=#3B5998>Coverage</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>This privacy statement covers the site www.HarvardConnection.co.  Because we want to
 demonstrate our commitment to our users' privacy, we will disclose our information
 and privacy practices below. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>About HarvardConnection and the Information We Collect</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection is an online directory and social networking community that helps 
+<tr><td class='white' bgcolor=#3B5998>About TheFacebook and the Information We Collect</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection is an online directory and social networking community that helps 
 people find friends and other people.  To accomplish this, our users create their 
 own profiles and privacy settings, and some personal information we ask for is 
 displayed to people in the groups specified in the users' privacy settings. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Information Collected by HarvardConnection</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection collects user-submitted account information such as name and email
+<tr><td class='white' bgcolor=#3B5998>Information Collected by TheFacebook</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection collects user-submitted account information such as name and email
 address to identify users and send notifications related to use of the site.
-HarvardConnection also collects user-submitted profile information such as gender, 
+TheFacebook also collects user-submitted profile information such as gender, 
   field, location, courses, etc.
-<p>HarvardConnection also collects information that is not personally identifiable and
+<p>TheFacebook also collects information that is not personally identifiable and
 not submitted directly by users, such as browser type and IP address.  This
 information is gathered for all users to the site.  
-<p>HarvardConnection collects information from other sources, such as newspapers and 
+<p>TheFacebook collects information from other sources, such as newspapers and 
 instant messaging services.  This information is gathered regardless of use of
 the site. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Use of Information Obtained by HarvardConnection</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>Profile information, as well as name, email and photo, are displayed to people in the
+<tr><td class='white' bgcolor=#3B5998>Use of Information Obtained by TheFacebook</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>Profile information, as well as name, email and photo, are displayed to people in the
 groups specified in a user's privacy settings to support the function of the 
 site.  Except when inviting a friend to join the site, a user's name and email will
-never be given to anyone outside the site.  No information submitted to HarvardConnection
+never be given to anyone outside the site.  No information submitted to TheFacebook
 will be available to any user of the site who does not belong to at least one of the
 groups specified in a user's privacy settings.
 <p>We use server, IP and browser type for site administration.  We also use information 
-not directly submitted to HarvardConnection by users to supplement users' profiles unless 
+not directly submitted to TheFacebook by users to supplement users' profiles unless 
 they specify that they do not want this done in their privacy settings. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
 <tr><td class='white' bgcolor=#3B5998>Spam Policy</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>Email addresses will never be sold to anyone, and they will not be used for spam or
 any other purpose outside of the site itself. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
@@ -130,10 +130,10 @@ of most interest to you.  HarvardConnection does not have access to or control o
 that may be placed by the third party advertising servers of ad networks.
 <p>This privacy statement covers the use of cookies by HarvardConnection and does not cover
 the use of cookies by any of its advertisers. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Changing or Removing Information</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection users may modify or remove any of their personal information at any time
+<tr><td class='white' bgcolor=#3B5998>Changing or Removing Information</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>TheFacebook users may modify or remove any of their personal information at any time
 by logging into their account.  Information will be updated immediately and old
 information will never be displayed to any user of the site. <br>&nbsp;</td></tr></table></td></tr></table><p><center><table class='bordertable' cellspacing=0 cellpadding=0 width=90%><tr><td><table cellspacing=0 cellpadding=2 border=0 width=100%> 
-<tr><td class='white' bgcolor=#3B5998>Security</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>HarvardConnection accounts are password-protected.  This web site takes every precaution to
+<tr><td class='white' bgcolor=#3B5998>Security</td></tr></table>&nbsp;<br><center><table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>TheFacebook accounts are password-protected.  This web site takes every precaution to
 protect our users' information.  Passwords are stored in hashed form in our database,
 and different sections of users' profiles are stored in different parts of our database
 to separate access to all of the information and make it more difficult to piece
