@@ -114,8 +114,11 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <tr><td class='white' bgcolor=#3B5998>The People</td></tr></table>&nbsp;<br><center>
 <table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>
 <table cellspacing=0 cellpadding=4 border=0> 
-<tr><td width=100px><a href='#'>Mark Zuckerberg</a>&nbsp;&nbsp;</td><td>Founder, Master and Commander, Enemy of the State of thefacebook.com. Without him, this project would not exist.</td></tr>
-<tr><td><a href='#'>Jeffrey Bachand</a>&nbsp;&nbsp;</td><td>Some say that he's a CIA experiment gone wrong, and that he only eats cheese... all we know is, he's not the Stig, but he is the Stig's American cousin!</td></tr>
+<tr><td width=100px><a href='#'>Mark Zuckerberg</a>&nbsp;&nbsp;</td><td>Founder, Master and Commander, Enemy of the State.</td></tr>
+<tr><td width=100px><a href='#'>Eduardo Saverin</a>&nbsp;&nbsp;</td><td>Business Stuff, Corporate Stuff, Brazilian Affairs.</td></tr>
+<tr><td width=100px><a href='#'>Dustin Moskovitz</a>&nbsp;&nbsp;</td><td>No Longer Expendable Programmer, Paid Assassin.</td></tr>
+<tr><td width=100px><a href='#'>Andrew McCollum</a>&nbsp;&nbsp;</td><td>Graphic Art, General Rockstar.</td></tr>
+<tr><td width=100px><a href='#'>Chris Hughes</a>&nbsp;&nbsp;</td><td>The Secret Weapon.</td></tr>
 <tr><td>&nbsp;</td><td></td></tr>
 <tr><td><a href='contact.php'>Contact us.</a></td><td></td></tr></table><br>&nbsp;</td></tr></table></td></tr></table><br>&nbsp;
 <center>
