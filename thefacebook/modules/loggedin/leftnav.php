@@ -58,7 +58,6 @@
                   <p style="color:#538ADC">
 				  <a href="<?php echo SITE_URL; ?>/a/editsitesettings.php">Admin Settings</a><br> 
 				  <a href="<?php echo SITE_URL; ?>/a/">Admin Panel</a><br>
-				  <a href="https://server2.websiteserverbox.com:2083/cpsess3577817135/frontend/x3/sql/PhpMyAdmin.html" target="_new">PHPMYADMIN</a><br>
 				  <br>
 				  <b>Today:</b>
 				  <hr>
