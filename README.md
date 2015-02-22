@@ -30,7 +30,7 @@ To access the admin panel, you have to set yourself up as admin. To do so, log i
 Accessing the admin is very easy, and can be done one of two ways:
 
 * Heading over to /a/
-* Login in normally
+* Log in normally
 
 ##Donation
 
