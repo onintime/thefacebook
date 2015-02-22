@@ -22,11 +22,15 @@ To install the facebook script, follow these steps:
 * Change details in config.php with your site details
 * Make changes in other files in script at your risk.
 
-###Site Setup
-
-###Initial Setup
 
 ###Admin Panel
+
+To access the admin panel, you have to set yourself up as admin. To do so, log into PHPmyadmin, and change the "accountstatusid" to 9 of your user.
+
+Accessing the admin is very easy, and can be done one of two ways:
+
+* Heading over to /a/
+* Login in normally
 
 ##Donation
 
