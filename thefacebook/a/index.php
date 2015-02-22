@@ -190,7 +190,7 @@ $today=date('Y-m-d');
 							<td>
 								<table cellspacing=0 cellpadding=2 border=0 width=100%> 
 									<tr>
-										<td class='white' bgcolor=#3B5998>Current Users - [ <a href='newsletter.php'>send a newsletter</a> ] [ <a href='addonetocount.php'>Add one to everyones count</a> ]</td>
+										<td class='white' bgcolor=#3B5998>Current Users</td>
 									</tr>
 								</table>
 							</td>
