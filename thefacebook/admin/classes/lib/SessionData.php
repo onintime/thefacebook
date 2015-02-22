@@ -84,7 +84,7 @@ class SessionData{
 	
 	public function CheckValidFBSession(){
 		if (!$this->CheckValidSession()){
-			header('location: bind.php');
+			header('location: index.php');
 		}
 
 	}	
