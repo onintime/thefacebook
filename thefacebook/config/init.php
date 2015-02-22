@@ -1,6 +1,6 @@
 <?php
 session_start();
-define("ROOT_DIR","/home/thefacebook/public_html/beta/");
+define("ROOT_DIR","/home/thefacebook/public_html/");
 define("PLSPATH", __DIR__."/../");
 include(ROOT_DIR."config.php");
 require PLSPATH.'classes/Config.php';

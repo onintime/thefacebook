@@ -294,7 +294,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
   119 201 243 - link down  (#77C9F3)
   -->
   
-</style><title>HarvardConnection | Welcome to HarvardConnection!</title> 
+</style><title>TheFacebook | Welcome to TheFacebook!</title> 
  
 <center> 
 <table class="bordertable" cellspacing=0 cellpadding=0 border=0 width=700> 
@@ -364,7 +364,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
   <a href="../terms.php?PHPSESSID=<?PHP echo session_id(); ?>">terms</a>&nbsp;&nbsp;
   <a href="../policy.php?PHPSESSID=<?PHP echo session_id(); ?>">privacy</a> 
   <br>a Mark Zuckerberg production
-  <br>HarvardConnection &copy; 2004
+  <br>TheFacebook &copy; 2004
   </center><br> 
   </td></tr></table> 
  

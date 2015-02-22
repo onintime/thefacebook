@@ -10,7 +10,7 @@ if(!$sess->CheckValidAdminSession()){			// Validates Session
 	if(!$sess->CheckValidSession())
 		header('Location: login.php');
 	//else
-	//	header('Location: http://www.harvardconnection.co/home.php');
+	//	header('Location: /home.php');
 }
 
 $db = new Database();						// Creates database object
@@ -213,7 +213,7 @@ $today=date('Y-m-d');
 
   <br>a Mark Zuckerberg production
 
-  <br>HarvardConnection &copy; 2004
+  <br>TheFacebook &copy; 2004
 
   </center><br>
 
