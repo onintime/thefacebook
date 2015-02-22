@@ -29,7 +29,7 @@ To install the facebook script, follow these steps:
 
 To access the admin panel, you have to set yourself up as admin. To do so, log into PHPmyadmin, and change the "accountstatusid" to 9 of your user.
 
-Accessing the admin is very easy, and can be done one of two ways:
+Accessing the admin panel is very easy, and can be done one of two ways:
 
 * Heading over to /a/
 * Log in normally
