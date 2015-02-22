@@ -15,10 +15,10 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <meta name="Generator" content="JB engine designed" /> 
 <meta name="robots" content="index, follow" /> 
 <meta name="OriginalPublicationDate" content="2011/04/06 00:00:00">
-<meta name="Headline" content="HarvardConnection | About"> 
+<meta name="Headline" content="TheFacebook | About"> 
 <meta name="IFS_URL" content="/about.php"> 
 <meta name="contentFlavor" content="PAGE"> 
-<meta name="CPS_SITE_NAME" content="HarvardConnection | About"> 
+<meta name="CPS_SITE_NAME" content="TheFacebook | About"> 
 <meta name="CPS_SECTION_PATH" content="About"> 
 <meta name="CPS_ASSET_TYPE" content="STY"> 
 <meta name="CPS_PLATFORM" content="HighWeb"> 
@@ -114,8 +114,8 @@ include($_SERVER["DOCUMENT_ROOT"].'/admin/classes/classes.php');		// Include loc
 <tr><td class='white' bgcolor=#3B5998>The People</td></tr></table>&nbsp;<br><center>
 <table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>
 <table cellspacing=0 cellpadding=4 border=0> 
-<tr><td width=100px><a href='profile.php?id=4'>Mark Zuckerberg</a>&nbsp;&nbsp;</td><td>Founder, Master and Commander, Enemy of the State of thefacebook.com. Without him, this project would not exist.</td></tr>
-<tr><td><a href='profile.php?id=3'>Jeffrey Bachand</a>&nbsp;&nbsp;</td><td>Some say that he's a CIA experiment gone wrong, and that he only eats cheese... all we know is, he's not the Stig, but he is the Stig's American cousin!</td></tr>
+<tr><td width=100px><a href='#'>Mark Zuckerberg</a>&nbsp;&nbsp;</td><td>Founder, Master and Commander, Enemy of the State of thefacebook.com. Without him, this project would not exist.</td></tr>
+<tr><td><a href='#'>Jeffrey Bachand</a>&nbsp;&nbsp;</td><td>Some say that he's a CIA experiment gone wrong, and that he only eats cheese... all we know is, he's not the Stig, but he is the Stig's American cousin!</td></tr>
 <tr><td>&nbsp;</td><td></td></tr>
 <tr><td><a href='contact.php'>Contact us.</a></td><td></td></tr></table><br>&nbsp;</td></tr></table></td></tr></table><br>&nbsp;
 <center>
