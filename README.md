@@ -14,6 +14,8 @@ Here are some of the changes:
 
 ##Setup
 
+###Initial setup
+
 To install the facebook script, follow these steps:
 
 * Copy all files from thefacebook folder to root directory of domain / subdomain.
